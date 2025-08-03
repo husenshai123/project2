@@ -1,2 +1,2 @@
 # info about this page
-this is info page
+this is info page.
